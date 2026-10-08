@@ -1,0 +1,13 @@
+# IDE 与本地配置
+.idea/
+*.iml
+.claude/
+
+# Maven 本地依赖库与构建产物（体积大，不入库）
+.m2repo/
+target/
+
+# 练习用的嵌套 git 仓库（各自独立维护，不属于本仓库内容）
+practice-order/
+_dev2/
+_remote/
